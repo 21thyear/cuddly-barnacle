@@ -1,0 +1,7 @@
+{
+    "files.encoding": "windows1251",
+    "files.associations": {
+        "*.pwn": "pawn",
+        "*.inc": "pawn"
+    }
+}
